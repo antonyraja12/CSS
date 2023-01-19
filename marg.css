@@ -1,0 +1,16 @@
+body{
+    background-image: url(image.jfif);
+    background-repeat: no-repeat;
+   background-size: 50% 60%;
+
+    
+}
+p{
+    padding: 5%;
+    border:5px solid #dfe6e0 ;
+    margin:350px 1400px 1000px 200px;
+    color: white;
+    font-family: bree serif;
+    font-size: xx-large;
+
+}

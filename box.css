@@ -1,0 +1,15 @@
+.img1{
+    padding:50px 80px;
+    border: 2px solid blue;
+    margin-left:10% ;
+}
+.but1{
+    border-radius:30px; 
+}
+.hd{
+    text-align: center;
+    color: rgb(3, 13, 13);
+    font-style: italic;
+    font-size: xx-large;
+    font-weight:900;
+}
