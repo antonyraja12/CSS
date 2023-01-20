@@ -1,0 +1,22 @@
+th,td{
+
+    border: 1px solid #000000;
+    text-align: center;
+    height:50px;
+
+   
+
+}
+table{
+    border: 4px solid black;
+    border-collapse: collapse;
+    width: 80%;
+
+}
+#head1{
+    background-color:rgb(128, 104, 235);
+}
+tr:nth-child(odd){
+    
+background-color: gray;
+}
