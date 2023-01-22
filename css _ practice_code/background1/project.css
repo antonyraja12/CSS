@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Miss+Fajardose&family=Solitreo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Solitreo&display=swap');
+
+.div1{
+    background-image:url(green.webp);
+    height:400px;
+    width: 60%;
+    background-size:cover;
+    padding: 20% 20%;
+    color: whitesmoke;
+    text-transform: uppercase;
+    border: 1px solid black;
+    font-size: 70px;
+    
+}
+.one{
+    font-size: 70px;
+}
+.two{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 120px;
+    text-transform: lowercase;
+    text-transform:capitalize ;
+    font-family: 'Pacifico';
+}
+#but1,#but2{
+    box-sizing: border-box;
+    height: 100px;
+    width: 500px;
+    -webkit-background-clip:text;
+    color: white;
+    font-size: 50px;
+    border-color: blanchedalmond;
+    font-weight: 300;
+
+}

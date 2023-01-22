@@ -1,0 +1,30 @@
+.div1{
+    width: 1000px;
+    height: 50%;
+    border: 2px solid black;
+    background-image: linear-gradient(to right, red, rgb(71, 43, 107));
+}
+.div2{
+    margin: 100px;
+    width: 60%%;
+    height: 40%;
+    border: 1px solid black;
+    padding: 4%;
+    background-image: url(mom.jfif);
+    background-position:85% 80%;
+    background-repeat: no-repeat;
+    background-color: rgb(253, 153, 210);
+}
+h3{
+    color: red;
+}
+h1{
+    font-size:50px;
+}
+button{
+    box-sizing: border-box;
+    width: 100px;
+    height: 35px;
+    color: white;
+    background-color: red;
+}
