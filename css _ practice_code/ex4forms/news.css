@@ -1,0 +1,21 @@
+img{
+    height: 300px;
+    width: 280px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+div{
+    height: 500px;
+    width: 700px;
+    position: absolute;
+    top: 200px;
+    left: 300px;
+}
+.img1:hover{
+    transition: 5s;
+    transform: rotate(30deg);
+}
+.img2:hover{
+    transition: 5s;
+    transform: rotate(-25deg);
+}

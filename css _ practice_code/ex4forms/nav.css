@@ -1,0 +1,53 @@
+ul li{
+    display: inline;
+    padding-left:20px ;
+    line-height: 40px;
+    font-size: 20px;
+    color: rgb(230, 226, 238);
+    opacity: 0.3;
+    transition: opacity 0s;
+}
+img{
+    float: left;
+}
+body{
+    background-image: url(https://images.pexels.com/photos/6238038/pexels-photo-6238038.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+div{
+    height: 400px;
+    width: 800px;
+    position: absolute;
+    top: 300px;
+    left: 460px;
+    background-color: rgba(0, 0, 0, 0.39);
+    box-shadow: 20px 10px 30px lavender;
+}
+h1{
+    text-align: center;
+    color:whitesmoke;
+    font-size: 50px;
+    font-weight: 900;
+}
+p{
+    text-align: center;
+    color:whitesmoke;
+    font-size: larger;
+}
+.bt1{
+    margin-top: 30px;
+    margin-left: 300px;
+    box-sizing: border-box;
+    height: 50px;
+    width: 150px;
+    background-color: aquamarine;
+    border-radius: 25px;
+    
+}
+ul li:hover{
+    opacity: 1;
+    
+}
+nav{
+    text-align: right;
+}

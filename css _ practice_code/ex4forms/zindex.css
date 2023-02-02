@@ -1,0 +1,29 @@
+.one{
+    width: 200px;
+    height: 300px;
+    background-color: aqua;
+    position: absolute;
+    top: 100px;
+    left: 250px;
+}
+.center{
+    width: 600px;
+    height: 400px;
+    background-color: blueviolet;
+    position: absolute;
+    top: 150px;
+    left: 450px;
+    z-index: 0;
+    text-align: center
+    ;
+    
+}
+.two{
+    width: 200px;
+    height: 300px;
+    background-color: rgb(56, 73, 73);
+    position: absolute;
+    top:400px;
+    left: 1000px;
+    color: aqua;
+}

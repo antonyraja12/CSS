@@ -1,0 +1,24 @@
+input{
+    box-sizing: border-box;
+    height:40px;
+    width:280px;
+    text-indent: 5px;
+    -webkit-background-clip: border-box;
+    color: bisque;background-color: rgba(0, 0, 0, 0.016);
+    border-bottom-color:bisque;
+    border:none;
+    outline: none;
+
+
+}
+button{margin-left:30%;
+    box-sizing: border-box;
+    width:100px;
+    height: 30px;
+    background-color: rgb(246, 56, 56);
+    color: bisque;
+    
+}
+::placeholder{
+    color: bisque;
+}

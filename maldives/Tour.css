@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+.div1{
+    height:80vh;
+    width: 100%;
+    background:url(maladive.webp) 100%,40%  fixed;
+    background-size:cover;
+}
+ul{
+    display:flex;
+    float:right;
+    list-style-type: none;
+}
+li{
+    text-indent:20px;  
+    color: whitesmoke;  
+    text-decoration: underline;  
+    font-weight: 400;
+}
+iframe{
+    background-color: rgba(0, 0, 0, 0.352);
+    float:right;
+    margin-top:10%;
+    position: absolute;
+    right: 150px;
+    border: none;
+
+}
+.head{
+    height:250px;
+    width: 400px;
+    margin-left:20%;
+    position: absolute;
+    color: bisque;
+    font-size: 40px;
+    font-family: Allura;
+    font-weight: 900;
+}
+.but{
+    color: red;
+}
+a:visited{
+    color: red;
+}
+a:active{
+    color: blue;
+    background-color: aqua;
+}
+.div2{
+    width: 100%;
+    height: 1000px;
+    background-image:linear-gradient( rgb(176, 227, 88), rgb(90, 205, 223), rgb(77, 77, 187));
+    background:url(maladive.webp) 100%,40%;
+}
+.mal{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    position: relative;
+    left:1100px;
+    background-image:linear-gradient( rgb(76, 4, 76),rgb(21, 139, 208),rgb(240, 240, 101));
+    font-size: 49px;
+    cursor: crosshair;
+}
+.Europe{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    position: absolute;
+    right:500px ;
+    top: 200px;
+    background-image:conic-gradient(at 50% 0%,plum 25%,plum 40%,rgba(95, 204, 71, 0.81)40%,rgba(95, 204, 71, 0.81)55%,gold 55%,gold 70%,grey 75%,grey);
+    cursor: grab;
+    outline-style: ridge;
+}
+.dubai{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    position: absolute;
+    right: 110px;
+    top: 1100px;
+    background-image:repeating-radial-gradient(circle,rgb(83, 231, 130)4px,rgb(147, 174, 28) 8px, rgb(228, 92, 151)30px);
+    font-size:49px;
+    cursor: alias;
+    outline:10px double pink;
+
+}
+.USA{
+    position: absolute;
+    top: 760px;
+    right: 1100px;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    font-size: 49px;
+    background-image:conic-gradient(at 20% 75%,green,red,orange,blue);
+    cursor: not-allowed;
+    outline:5px dashed green;
+}
+.Paris{
+    position: absolute;
+    top: 1100px;
+    right: 1100px;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    font-size: 49px;
+    background-image: repeating-linear-gradient(to right,red,green,blue,yellow,aqua,orange,aqua);
+    cursor:move;  
+}
+h1,.cls{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+}
+button{
+    margin-left: 30%;
+    box-sizing: border-box;
+    height: 40px;
+    color: beige;
+    background-color: rgba(0, 0, 0, 0.166);
+}
+button:hover {
+    background-color:rgb(136, 10, 10);
+    border-radius:10px;
+}
+nav{
+    width:100%;
+    height:6%;
+    display: inline-block;
+    background-color: rgb(18, 16, 16);
+    color:green;
+}
