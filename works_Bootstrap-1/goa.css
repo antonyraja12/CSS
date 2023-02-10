@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.car,.img1{
+    height: 500px;
+    width: 100%;
+}
+body{
+    color: #9aa5b1;
+    font-family: Roboto;
+}
+h3{
+    color: black;
+}

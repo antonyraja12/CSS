@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.bdy{
+    background-color:#f6c56e !important;
+}
+.but{
+    background-color:#ffffff;
+}
+.text1{
+    font-family:Roboto;
+}
+h5{
+    font-family:'Bree Serif';
+}

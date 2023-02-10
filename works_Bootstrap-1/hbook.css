@@ -1,0 +1,13 @@
+.bgb{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 80vh;
+
+}
+.cd{
+ background-color: #000000e6;
+ color:#ffffff;
+
+}

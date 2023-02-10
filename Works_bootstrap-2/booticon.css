@@ -1,0 +1,15 @@
+.bdy{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png) !important;
+    background-size:cover;
+}
+.ics{
+    background-color:#5e5c47;
+    font-size: 200px;
+    background: transparent;
+    color: aqua;
+
+}
+.bdy1{
+    height: 50vh;
+    width: 1000px;
+}

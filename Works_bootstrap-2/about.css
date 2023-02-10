@@ -1,0 +1,21 @@
+.img1{
+    width: 100px !important;
+    height: 100px !important;
+}
+.col{
+    color: #cced00;
+}
+.col1{
+    background-color: #1f2933;
+}
+.bdy{
+   color: #9aa5b1;
+}
+.col2{
+    background-color: #323f4b;
+}
+.bg1{
+    background-color:#475d7362;
+    border-radius: 20px;
+    width: 160px;
+}

@@ -1,0 +1,8 @@
+body{
+    background-image: url(https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=1600);
+}
+.col1{
+    background-color: cornsilk;
+    color: rgb(1, 32, 2);
+    box-shadow: 10px 10px 10px 5px black ;
+}
